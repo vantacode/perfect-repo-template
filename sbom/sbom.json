@@ -7,9 +7,9 @@
     "timestamp": "2026-04-06T00:00:00Z",
     "tools": [
       {
-        "vendor": "DarkCode LLC",
-        "name": "VantaCode",
-        "version": "0.1.0"
+        "vendor": "<your org>",
+        "name": "<tool name>",
+        "version": "0.0.0"
       }
     ],
     "component": {

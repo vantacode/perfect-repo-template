@@ -2,7 +2,7 @@
 
 ## Getting Help
 
-- **Issues:** [GitHub Issues](https://github.com/vantacode/perfect-repo-template/issues) for bugs and feature requests
-- **Discussions:** [GitHub Discussions](https://github.com/vantacode/perfect-repo-template/discussions) for questions
-- **Email:** cory@darkcode.ai for private inquiries
+- **Issues:** [GitHub Issues](../../issues) for bugs and feature requests
+- **Discussions:** [GitHub Discussions](../../discussions) for questions
+- **Private inquiries:** [INSERT CONTACT METHOD] (email alias, form, etc.)
 - **Security:** See [SECURITY.md](SECURITY.md) for vulnerability reports
