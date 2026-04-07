@@ -42,8 +42,11 @@ an individual is officially representing the community in public spaces.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-**cory@darkcode.ai**.
+reported to the community leaders responsible for enforcement via
+**[INSERT CONTACT METHOD]** (for example, a private email alias such as
+`conduct@<your-org>.example`, or by using GitHub's
+[Report content](https://docs.github.com/en/communities/maintaining-your-safety-on-github/reporting-abuse-or-spam)
+flow on this repository).
 
 All complaints will be reviewed and investigated promptly and fairly.
 

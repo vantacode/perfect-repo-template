@@ -67,10 +67,11 @@ See [.github/SECURITY.md](.github/SECURITY.md) for our security policy.
 
 ## License
 
-[MIT](LICENSE) - Copyright (c) 2026 DarkCode LLC
+[MIT](LICENSE) - Copyright (c) <year> <your name or org>
 
 ## Author
 
-**Cory Kennedy** / DarkCode LLC
-- GitHub: [@NoDataFound](https://github.com/NoDataFound)
-- Email: cory@darkcode.ai
+**[your name here]** / [your org]
+
+- GitHub: [@your-handle](https://github.com/your-handle)
+- Contact: see [SECURITY.md](.github/SECURITY.md) and [SUPPORT.md](.github/SUPPORT.md)

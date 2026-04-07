@@ -11,8 +11,14 @@
 
 **Do not open a public issue for security vulnerabilities.**
 
-Email: [cory@darkcode.ai](mailto:cory@darkcode.ai)
-Subject: `[SECURITY] <project-name> - <brief description>`
+Use GitHub's private vulnerability reporting:
+
+1. Go to this repository's **Security** tab.
+2. Click **Report a vulnerability**.
+3. Fill in the advisory form.
+
+If private vulnerability reporting is not enabled, contact the maintainers
+via the method documented in [SUPPORT.md](SUPPORT.md).
 
 Include: description, steps to reproduce, potential impact, suggested fix.
 

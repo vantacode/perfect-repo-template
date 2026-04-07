@@ -1,11 +1,12 @@
 name: Security
+
+# CodeQL requires GitHub Advanced Security on private repos. Until this
+# template ships actual code AND the consuming repo enables GHAS, the
+# scan is gated to manual dispatch so it does not block PRs with a
+# configuration error. To enable on a public fork, switch the trigger
+# back to push/pull_request and (optionally) add a weekly schedule.
 on:
-  push:
-    branches: [main]
-  pull_request:
-    branches: [main]
-  schedule:
-    - cron: '0 6 * * 1'
+  workflow_dispatch:
 
 permissions:
   actions: read

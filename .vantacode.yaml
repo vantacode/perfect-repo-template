@@ -9,5 +9,5 @@ vantacode:
     - "vantacode:governance:ci-cd=\"full\""
     - "vantacode:governance:security=\"full\""
     - "vantacode:governance:code-quality=\"full\""
-  team: darkcode
-  contact: cory@darkcode.ai
+  team: "<your-team>"
+  contact: "<your-contact>"

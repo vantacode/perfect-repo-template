@@ -11,4 +11,4 @@
 
 See [docs/CODE_OF_CONDUCT.md](docs/CODE_OF_CONDUCT.md) for community guidelines.
 
-Maintained by DarkCode LLC. Questions? Email cory@darkcode.ai.
+Questions? Open a [GitHub Discussion](../../discussions) or file an issue.

@@ -3,12 +3,11 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "Project Name"
 version: "0.1.0"
-date-released: "2026-04-06"
-url: "https://github.com/vantacode/perfect-repo-template"
+date-released: "YYYY-MM-DD"
+url: "https://github.com/<owner>/<repo>"
 authors:
-  - family-names: "Kennedy"
-    given-names: "Cory"
-    email: "cory@darkcode.ai"
-    affiliation: "DarkCode LLC"
+  - family-names: "<family name>"
+    given-names: "<given name>"
+    affiliation: "<your org>"
     orcid: ""
 license: MIT
